@@ -9,7 +9,7 @@
 </head>
 <body>
 <%
-String JUMIN = request.getParameter("JUMIN");
+String JUMIN = request.getParameter("JUMIN");//;lsdkfjgl;kjsdkflgjklsfdj
 String NAME = request.getParameter("NAME");
 String NUMBER = request.getParameter("NUMBER");
 String TIME = request.getParameter("TIME");

@@ -15,5 +15,7 @@
       </dataSource>
     </environment>
   </environments>
-
+	<mappers>
+	    <mapper resource="molu/Article_mapper.xml"/>
+  	</mappers>
 </configuration>
